@@ -1,0 +1,11 @@
+:root { color-scheme: dark; }
+body { margin: 0; font: 17px/1.6 ui-rounded, -apple-system, "SF Pro Rounded", system-ui, sans-serif;
+       background: linear-gradient(#211a45, #17122e) fixed; color: #f3f0ff; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 22px 80px; }
+h1 { font-size: 2.2em; line-height: 1.15; margin: 0 0 8px; }
+h2 { margin-top: 2em; color: #ffc840; }
+a { color: #8cd9ff; }
+.muted { color: #b7b0d6; }
+.card { background: rgba(255,255,255,.07); border: 1px solid rgba(255,255,255,.14); border-radius: 20px; padding: 18px 22px; margin: 18px 0; }
+.icon { width: 96px; height: 96px; border-radius: 22px; box-shadow: 0 8px 30px rgba(0,0,0,.4); }
+nav a { margin-right: 18px; }
